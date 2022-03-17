@@ -1,2 +1,2 @@
-# Variables
-Variables for Patika.dev
+# PatikaRep
+C# 101 ilk repo
